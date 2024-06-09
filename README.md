@@ -1,5 +1,5 @@
 # SE_Assingment_M3
-Hi my name is pradip suthar 
+Hi My name is Pradip Suthar 
 This is my  SE_Assingment_M3 
 Topics 1). Basic_Logic_Programs
        2). Conditional_Logic_Programs
